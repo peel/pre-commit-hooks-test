@@ -10,3 +10,4 @@ repos:
     rev: HEAD
     hooks:
     -   id: ghissue-message
+        args: [snowplow, snowplow, 05ca975dc18d47fdd6032c3d021bf9db077bd181]
