@@ -12,4 +12,6 @@ and
 
 `pre-commit autoupdate`
 
-testing
+Set up the Github Personal Access Token:
+
+`export GITHUB_PERSONAL_ACCESS_TOKEN=<token_here>`
